@@ -1,0 +1,6 @@
+framework module Pods_MapsHelper {
+  umbrella header "Pods-MapsHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
